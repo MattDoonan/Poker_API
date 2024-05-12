@@ -1,0 +1,5 @@
+# /requirements.txt
+
+flask>=3.0.3
+flask_cors>=4.0.0
+ultralytics>=8.0.0
